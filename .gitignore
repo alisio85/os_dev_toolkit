@@ -1,0 +1,15 @@
+# Rust build artifacts
+/target/
+**/target/
+
+# Rust toolchain overrides (optional)
+# rust-toolchain.toml
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Logs
+*.log
